@@ -1,0 +1,18 @@
+
+.loignsvgimage{
+    /* height: 35vh; */
+    height: 23rem;
+    
+}
+@media  screen and (max-width: 610px) {
+    .loignsvgimage{
+       height: 20rem;
+   
+    }
+  }
+  @media  screen and (max-width: 465px) {
+    .loignsvgimage{
+       height: 15rem;
+   
+    }
+  }
